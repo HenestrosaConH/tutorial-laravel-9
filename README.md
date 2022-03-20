@@ -21,7 +21,7 @@
   <h3 align="center">TutorialLaravel9</h3>
 
   <p align="center">
-    Descripción del proyecto
+    Estructura basada en el curso de pildorasinformaticas. No obstante, aquí se proveen detalles adicionales sacados de la documentación y se usa Laravel 9.
     <br />
     <a href="https://github.com/HenestrosaConH/TutorialLaravel9/issues">Reportar bug</a>
     ·
@@ -42,7 +42,7 @@
     <li>
       <a href="#contenidos">Contenidos</a>
 			<ol>
-				<li><a href="#framework-web-e-instalacion">Framework web e instalación</a></li>
+				<li><a href="#framework-web-y-creacion-de-proyectos">Framework web y creación de proyectos</a></li>
 				<li><a href="#rutas-y-controladores">Rutas y controladores</a></li>
 				<li><a href="#vistas-mediante-bootstrap-y-blade">Vistas mediante Bootstrap y Blade</a></li>
 				<li>
@@ -89,9 +89,32 @@ También añadir que es importante tener una base sólida de PHP para hacer un u
 
 Adicionalmente, es importante tener conocimientos de HTML para usarlo en los archivos ``.blade.php``` y de CSS para estilizar a los elementos HTML.
 
-<!-- FRAMEWORK WEB E INSTALACIÓN -->
-### Framework web e instalación
+<!-- FRAMEWORK WEB Y CREACIÓN DE PROYECTOS -->
+### Framework web y creación de proyectos
 
+#### Qué es Laravel
+
+Laravel es un framework *open source* y gratuito, construido en PHP, que se utiliza para el diseño web siguiendo el patrón MVC. Está basado en otro framework PHP llamado *Symphony*.
+
+#### Qué es un framework
+
+Un *framework*  es una herramienta que provee una serie de componentes o soluciones para agilizar y facilitar la etapa de desarrollo.
+
+#### Qué es el patrón MVC
+
+Laravel sigue el patrón de diseño arquitectónico MVC, el cual consiste en dividir la aplicación/programa en tres pares: Modelo, Vista y Controlador.
+
+* El modelo se encarga de realizar las peticiones a la base de datos.
+* La vista muestra, a través de interfaces gráficas (Laravel utiliza el motor de plantillas *Blade*), la información de la aplicación/programa.
+* El controlador es el intermediario entre el modelo y la vista. Es decir, es el cerebro que se encarga de pasarle a la vista los datos del modelo que tienen que ser presentados.
+
+#### Crear proyecto de Laravel
+
+Se puede instalar Laravel de varias formas, tal y como se puede comprobar en la [documentación oficial](https://laravel.com/docs/9.x). Por mi parte, recomiendo crear proyectos Laravel via Composer ya que se realiza, simplemente, con la ejecución del comando ``composer create-project laravel/laravel nombre-proyecto```. Aquí dejo un enlace para la [instalación de Composer](https://getcomposer.org/download/).
+
+Para el despliegue del proyecto creado, recomiendo altamente el uso de [Laragon](https://laragon.org/). Es una herramienta muy potente que incluso tiene la opción de crear un proyecto Laravel con tan solo dar un click, sin necesitad de introducir comandos en la consola.
+
+[Este]() es un ejemplo de proyecto vacío que se podría usar como plantilla.
 
 <!-- RUTAS Y CONTROLADORES -->
 ### Rutas y controladores
