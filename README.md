@@ -114,42 +114,79 @@ Se puede instalar Laravel de varias formas, tal y como se puede comprobar en la 
 
 Para el despliegue del proyecto creado, recomiendo altamente el uso de [Laragon](https://laragon.org/). Es una herramienta muy potente que incluso tiene la opción de crear un proyecto Laravel con tan solo dar un click, sin necesitad de introducir comandos en la consola.
 
-[Este]() es un ejemplo de proyecto vacío que se podría usar como plantilla.
+[Este](https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/1.%20Framework%20web%20e%20instalaci%C3%B3n/Proyecto%20vac%C3%ADo/example-app) es un ejemplo de proyecto vacío que se podría usar como plantilla.
 
 <!-- RUTAS Y CONTROLADORES -->
 ### Rutas y controladores
 
+-   <a href="https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/2.%20Rutas%20y%20controladores/a)%20Creaci%C3%B3n%20de%20rutas%20simples/routes">Creación de rutas simples</a>
+-   <a href="https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/2.%20Rutas%20y%20controladores/b)%20A%C3%B1adir%20un%20controlador%20a%20una%20ruta">Añadir un controlador a una ruta</a>
+-   <a href="https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/2.%20Rutas%20y%20controladores/c)%20Creaci%C3%B3n%20de%20controladores%20desde%20Artisan">Creación de controladores desde Artisan</a>
+-   <a href="https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/2.%20Rutas%20y%20controladores/d)%20Gestionar%20vista%20desde%20un%20controlador">Gestionar vista desde un controlador</a>
+-   <a href="https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/2.%20Rutas%20y%20controladores/e)%20Crear%20rutas%20CRUD%20y%20listarlas%20con%20Artisan">Crear rutas CRUD y listarlas con Artisan</a>
 
 <!-- VISTAS MEDIANTE BOOTSTRAP Y BLADE -->
 ### Vistas mediante Bootstrap y Blade
 
-
+-   <a href="https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/3.%20Vistas%20mediante%20Bootstrap%20y%20Blade/a)%20Enlazar%20a%20Bootstrap%20CDN">Enlazar a Bootstrap CDN</a>
+-   <a href="https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/3.%20Vistas%20mediante%20Bootstrap%20y%20Blade/b)%20Nav%20con%20Bootstrap">Nav con Boostrap</a>
+-   <a href="https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/3.%20Vistas%20mediante%20Bootstrap%20y%20Blade/c)%20Plantilla%20base%20con%20plantillas%20descendientes">Plantilla base con plantillas descendientes</a>
+-   <a href="https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/3.%20Vistas%20mediante%20Bootstrap%20y%20Blade/d)%20Mostrar%20informaci%C3%B3n%20de%20modelo%20desde%20plantilla">Mostrar información de modelo desde plantilla</a>
+-   <a href="https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/3.%20Vistas%20mediante%20Bootstrap%20y%20Blade/e)%20Combinar%20plantillas%20Blade%20hechas%20con%20Bootstrap/resources%20-%20views">Combinar plantillas Blade hechas con Bootstrap</a>
 
 <!-- BASES DE DATOS Y ELOQUENT -->
 ### Bases de datos y Eloquent
 
-
+-   <a href="https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/4.%20Bases%20de%20datos%20y%20Eloquent/a)%20Configurar%20BBDD">Configurar BBDD</a>
+-   <a href="https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/4.%20Bases%20de%20datos%20y%20Eloquent/b)%20Migraciones">Migraciones</a>
+-   <a href="https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/4.%20Bases%20de%20datos%20y%20Eloquent/c)%20Consultas%20SQL%20nativas/routes">Consultas SQL nativas</a>
+-   <a href="https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/4.%20Bases%20de%20datos%20y%20Eloquent/d)%20Creaci%C3%B3n%20de%20modelos%20y%20uso%20de%20Eloquent">Creación de modelos y uso de Eloquent</a>
+-   <a href="https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/4.%20Bases%20de%20datos%20y%20Eloquent/e)%20Selecci%C3%B3n%20de%20registros%20con%20filtros%20en%20Eloquent">Selección de registros con filtros en Eloquent</a>
+-   <a href="https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/4.%20Bases%20de%20datos%20y%20Eloquent/f)%20Insertar%20y%20actualizar%20registros%20en%20Eloquent/routes">Insertar y actualizar registros en Eloquent</a>
+-   <a href="https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/4.%20Bases%20de%20datos%20y%20Eloquent/g)%20CRUD%20en%20masa%20en%20Eloquent">CRUD en masa en Eloquent</a>
+-   <a href="https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/4.%20Bases%20de%20datos%20y%20Eloquent/h)%20Soft%20deleting%20en%20Eloquent">Soft deleting en Eloquent</a>
+-   <a href="https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/4.%20Bases%20de%20datos%20y%20Eloquent/i)%20Relaci%C3%B3n%201-1%20en%20Eloquent">Relación 1-1 en Eloquent</a>
+-   <a href="https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/4.%20Bases%20de%20datos%20y%20Eloquent/j)%20Relaci%C3%B3n%201-1%20inversa%20en%20Eloquent">Relación 1-1 inversa en Eloquent</a>
+-   <a href="https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/4.%20Bases%20de%20datos%20y%20Eloquent/k)%20Relaci%C3%B3n%201-%E2%88%9E%20en%20Eloquent">Relación 1-∞ en Eloquent</a>
+-   <a href="https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/4.%20Bases%20de%20datos%20y%20Eloquent/l)%20Relaci%C3%B3n%20%E2%88%9E-%E2%88%9E%20en%20Eloquent">Relación ∞-∞ en Eloquent</a>
+-   <a href="https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/4.%20Bases%20de%20datos%20y%20Eloquent/m)%20Relaciones%20polif%C3%B3rmicas%20en%20Eloquent">Relaciones polifórmicas en Eloquent</a>
 
 <!-- TINKER -->
 ### Tinker
 
+Es una consola de pruebas que permite multitud de operaciones. Entre ellas, interactuar con las BBDDs uttilizando Eloquent, hacer operaciones CRUD, crear objetos nuevos, comprobar relaciones…
 
+Para su ejecución, hay que introducir el comando `php artisan tinker` y, para salir, hay que ejecutar el comando `exit;`.
+
+<a href="https://github.com/HenestrosaConH/TutorialLaravel9/blob/main/4.5%20Tinker/uso-de-tinker.txt">Uso de Tinker</a>
 
 <!-- CRUD con formularios -->
 ### CRUD con formularios
 
+-   <a href="https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/5.%20CRUD%20con%20formularios/a)%20Caso%20pr%C3%A1ctico">Caso práctico</a>
+-   <a href="https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/5.%20CRUD%20con%20formularios/b)%20Laravel%20Collective">Laravel Collective</a>
+-   <a href="https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/5.%20CRUD%20con%20formularios/c)%20Validaci%C3%B3n%20de%20formularios">Validación de formularios</a>
+-   <a href="https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/5.%20CRUD%20con%20formularios/d)%20Subida%20y%20obtenci%C3%B3n%20de%20im%C3%A1genes%20en%20formularios">Subida y obtención de imágenes en formularios</a>
 
 <!-- AUTH, SESIONES Y MAILS -->
 ### Auth, sesiones y mails
 
+-   <a href="https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/6.%20Auth%2C%20sesiones%20y%20mails/a)%20Sistema%20de%20registro%20e%20inicio%20de%20sesi%C3%B3n">Sistema de registro e inicio de sesión</a>
+-   <a href="https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/6.%20Auth%2C%20sesiones%20y%20mails/b)%20Roles%20y%20zonas%20de%20usuarios">Roles y zonas de usuarios</a>
+-   <a href="https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/6.%20Auth%2C%20sesiones%20y%20mails/c)%20Sesiones">Sesiones</a>
+-   <a href="https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/6.%20Auth%2C%20sesiones%20y%20mails/d)%20Enviar%20mails">Enviar mails</a>
+
 <!-- APLICACIÓN WEB COMPLETA CON LARAVEL -->
 ### Aplicación web completa con Laravel
+
+Se trata de una aplicación muy básica en la que podremos iniciar sesión como usuarios y hacer operaciones CRUD de usuarios a través de formularios. Se hace uso de Bootstrap 5.
+
+-   <a href="https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/7.%20Aplicaci%C3%B3n%20web%20completa%20con%20Laravel">Link</a>
 
 <p align="right">(<a href="#top">volver al principio</a>)</p>
 
 
 <!-- CONTRIBUIR -->
-
 ## Contribuir
 
 Las contribuciones son lo que hacen a la comunidad open source un sitio increíble del que aprender, inspirar y crear. Cualquier contribución que hagas será **muy agradecida**.
