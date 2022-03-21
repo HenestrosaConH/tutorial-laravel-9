@@ -87,7 +87,7 @@ Los contenidos vistos en el curso dan una base sólida sobre Laravel, pero hay m
 
 También añadir que es importante tener una base sólida de PHP para hacer un uso razonado y comprensivo del framework, ya que cualquier framework que se utilice abstrae el lenguaje en el que está basado. Esto implica que muchas veces, la "magia" del framework sea inexplicable para los desarrolladores a causa de la facilidad con la que se realizan acciones como el enrutamiento o el proceso de autentificación.
 
-Adicionalmente, es importante tener conocimientos de HTML para usarlo en los archivos ``.blade.php``` y de CSS para estilizar a los elementos HTML.
+Adicionalmente, es importante tener conocimientos de HTML para usarlo en los archivos `.blade.php` y de CSS para estilizar a los elementos HTML.
 
 <!-- FRAMEWORK WEB Y CREACIÓN DE PROYECTOS -->
 ### Framework web y creación de proyectos
@@ -110,7 +110,7 @@ Laravel sigue el patrón de diseño arquitectónico MVC, el cual consiste en div
 
 #### Crear proyecto de Laravel
 
-Se puede instalar Laravel de varias formas, tal y como se puede comprobar en la [documentación oficial](https://laravel.com/docs/9.x). Por mi parte, recomiendo crear proyectos Laravel via Composer ya que se realiza, simplemente, con la ejecución del comando ``composer create-project laravel/laravel nombre-proyecto```. Aquí dejo un enlace para la [instalación de Composer](https://getcomposer.org/download/).
+Se puede instalar Laravel de varias formas, tal y como se puede comprobar en la [documentación oficial](https://laravel.com/docs/9.x). Por mi parte, recomiendo crear proyectos Laravel via Composer ya que se realiza, simplemente, con la ejecución del comando `composer create-project laravel/laravel nombre-proyecto`. Aquí dejo un enlace para la [instalación de Composer](https://getcomposer.org/download/).
 
 Para el despliegue del proyecto creado, recomiendo altamente el uso de [Laragon](https://laragon.org/). Es una herramienta muy potente que incluso tiene la opción de crear un proyecto Laravel con tan solo dar un click, sin necesitad de introducir comandos en la consola.
 
