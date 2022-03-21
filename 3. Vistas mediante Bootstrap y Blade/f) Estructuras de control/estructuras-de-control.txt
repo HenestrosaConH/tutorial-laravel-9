@@ -1,0 +1,53 @@
+Condicionales:
+
+@if ($primeraCondicion)
+    Primera condición es verdadera
+@elseif ($segundaCondicion)
+    Segunda condición es verdadera
+@else
+    Ninguna es verdadera
+@endif
+
+Unless:
+Lo mismo que decir 'if not'
+
+@unless ($user->hasName())
+    <p>A user has no name.</p>
+@endunless
+
+-----------------------------
+
+Bucle for:
+
+@for ($i = 0; $i < 10; $i++)
+    {{ $i }}
+@endfor
+
+Bucle foreach:
+Lo mismo que el foreach, pero añade la directiva @empty en caso de que el iterable esté vacío
+
+@foreach ($posts as $post)
+    {{ $post->title }}
+@endforeach
+
+@forelse ($posts as $post)
+    {{ $post->title }}
+@empty
+    No posts
+@endforelse
+
+También se pueden hacer uso de las directivas @continue y @break
+
+@foreach ($users as $user)
+    @continue ($user->id == 2)
+        <p>{{ $user->id }} {{ $user->name }}</p>
+    @break ($user->id == 4)
+@endforeach
+
+-----------------------------
+
+Bucle while:
+
+@while (true)
+    This will not finish!
+@endwhile

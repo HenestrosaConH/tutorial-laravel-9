@@ -41,6 +41,7 @@
     </li>
     <li>
       <a href="#contenidos">Contenidos</a>
+      <a href="#php-artisan-cheatsheet-en-español">PHP Artisan cheatsheet en español</a>
 			<ol>
 				<li><a href="#framework-web-y-creación-de-proyectos">Framework web y creación de proyectos</a></li>
 				<li><a href="#rutas-y-controladores">Rutas y controladores</a></li>
@@ -94,6 +95,11 @@ Es importante tener conocimientos de HTML para estructurar los archivos `.blade.
 **NOTA**: Los archivos presentes en la raíz de algunos directorios tienen el fin de ser reemplazados o añadidos a las rutas indicadas en las carpetas de un proyecto nuevo. Por ejemplo, si el archivo `2022_03_11_173849_add_img_path_to_productos.php` se encuentra dentro del directorio `database - migrations`, es porque si queremos hacer uso de ese archivo en un proyecto existente, tendremos que moverlo a la raíz del directorio `database/migrations`.
 
 <!-- FRAMEWORK WEB Y CREACIÓN DE PROYECTOS -->
+### PHP Artisan cheatsheet en español
+
+[Aquí](https://gist.github.com/HenestrosaConH/0e6d4fd3b849d282af8ab33308d4e904) dejo el enlace del Gist creado con un listado de comandos `php artisan` que facilitan el desarrollo en Laravel. 
+
+<!-- FRAMEWORK WEB Y CREACIÓN DE PROYECTOS -->
 ### Framework web y creación de proyectos
 
 #### Qué es Laravel
@@ -137,6 +143,7 @@ Para el despliegue del proyecto creado, recomiendo altamente el uso de [Laragon]
 -   <a href="https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/3.%20Vistas%20mediante%20Bootstrap%20y%20Blade/c)%20Plantilla%20base%20con%20plantillas%20descendientes">Plantilla base con plantillas descendientes</a>
 -   <a href="https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/3.%20Vistas%20mediante%20Bootstrap%20y%20Blade/d)%20Mostrar%20informaci%C3%B3n%20de%20modelo%20desde%20plantilla">Mostrar información de modelo desde plantilla</a>
 -   <a href="https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/3.%20Vistas%20mediante%20Bootstrap%20y%20Blade/e)%20Combinar%20plantillas%20Blade%20hechas%20con%20Bootstrap/resources%20-%20views">Combinar plantillas Blade hechas con Bootstrap</a>
+-   <a href="https://github.com/HenestrosaConH/TutorialLaravel9/tree/main/3.%20Vistas%20mediante%20Bootstrap%20y%20Blade/f)%20Estructuras%20de%20Control%20en%20Blade">Estructuras de control en Blade</a>
 
 <!-- BASES DE DATOS Y ELOQUENT -->
 ### Bases de datos y Eloquent
