@@ -29,9 +29,9 @@
   </p>
 </div>
 
-<!-- TABLE OF CONTENTS -->
+<!-- TABLA DE CONTENIDOS -->
 <details>
-  <summary>Table de contenidos</summary>
+  <summary>Tabla de contenidos</summary>
   <ol>
     <li>
       <a href="#sobre-el-proyecto">Sobre el proyecto</a>
@@ -42,7 +42,7 @@
     <li>
       <a href="#contenidos">Contenidos</a>
 			<ol>
-				<li><a href="#framework-web-y-creacion-de-proyectos">Framework web y creación de proyectos</a></li>
+				<li><a href="#framework-web-y-creación-de-proyectos">Framework web y creación de proyectos</a></li>
 				<li><a href="#rutas-y-controladores">Rutas y controladores</a></li>
 				<li><a href="#vistas-mediante-bootstrap-y-blade">Vistas mediante Bootstrap y Blade</a></li>
 				<li>
@@ -53,7 +53,7 @@
 				</li>
 				<li><a href="#crud-con-formularios">CRUD con formularios</a></li>
 				<li><a href="#auth-sesiones-y-mails">Auth, sesiones y mails</a></li>
-				<li><a href="#aplicacion-web-completa-con-laravel">Aplicación web completa con Laravel</a></li>
+				<li><a href="#aplicación-web-completa-con-laravel">Aplicación web completa con Laravel</a></li>
 			</ol>
     </li>
 		<li><a href="#contribuir">Contribuir</a></li>
@@ -72,7 +72,7 @@ El creador del tutorial realiza el proyecto en Laravel 5.5, mientras que yo lo h
 
 <!-- HECHO CON -->
 
-### Hecho con
+### Realizado con
 
 -   [Laravel 9](https://laravel.com)
 -   [Bootstrap 5](https://getbootstrap.com)
