@@ -15,10 +15,11 @@ class CreateArticulosTable extends Migration
     {
         Schema::create('articulos', function (Blueprint $table) {
             $table->id();
-            $table->string("nombre_articulo");
+	    // 255 es la longitud máxima de caracteres del campo 
+            $table->string("nombre_articulo", 255);
             $table->decimal("precio");
             $table->string("pais_origen");
-            $table->text("observaciones");
+            $table->text("observaciones")->nullable();
             $table->timestamps();
         });
     }
