@@ -9,12 +9,17 @@ class Articulo extends Model
 {
     use HasFactory;
     
-    // permite introducir registro con el método create() del modelo
+    // Es la whitelist de registros que se pueden introducir con el método create() del modelo
     protected $fillable = [
         'nombre_articulo',
         'precio',
         'pais_origen',
         'observaciones',
         'seccion'
+    ];
+
+    // Es la blacklist de registros que NO se pueden introducir con el método create() del modelo
+    protected $guarded = [
+        'id'
     ];
 }
