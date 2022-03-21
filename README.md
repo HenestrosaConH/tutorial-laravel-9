@@ -83,11 +83,15 @@ El creador del tutorial realiza el proyecto en Laravel 5.5, mientras que yo lo h
 
 ## Contenidos
 
-Los contenidos vistos en el curso dan una base sólida sobre Laravel, pero hay muchísimas cosas que se resumen o que directamente se pasan por alto de la documentación, por lo que te sugiero altamente que la leas conforme se progresa en el curso. Mencionar que la documentación de Laravel está muy bien redactada y estructurada y que, además, existe [Laracasts](https://laracasts.com/): una página que enseña desarrollo web a través de cursos gratuitos y de pago. Es un buen complemento junto a la documentación. Asimismo, aconsejo echarle un vistazo a [este repositorio](https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path) que sirve como roadmap para estructurar vuestro desarrollo como programadores de Laravel.
+Los contenidos vistos en el [curso](https://www.youtube.com/watch?v=0sHSrqyZCnM&list=PLU8oAlHdN5Bk-qkvjER90g2c_jVmpAHBh&ab_channel=pildorasinformaticas) dan una base decente sobre Laravel, pero hay muchísimas cosas que se resumen o que directamente se pasan por alto de la documentación, por lo que sugiero altamente que sean leídas conforme se progresa en el curso. 
 
-También añadir que es importante tener una base sólida de PHP para hacer un uso razonado y comprensivo del framework, ya que cualquier framework que se utilice abstrae el lenguaje en el que está basado. Esto implica que muchas veces, la "magia" del framework sea inexplicable para los desarrolladores a causa de la facilidad con la que se realizan acciones como el enrutamiento o el proceso de autentificación.
+Es importante destacar que la documentación de Laravel está muy bien redactada y estructurada, por lo que su uso no resultará excesivamente complicado. Además, existe el sitio web de [Laracasts](https://laracasts.com/), que se dedica a la enseñanza de desarrollo web a través de cursos gratuitos y de pago. Asimismo, aconsejo echarle un vistazo a [este repositorio](https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path), que sirve como punto de referencia para desarrollar la carrera de un programador de Laravel.
 
-Adicionalmente, es importante tener conocimientos de HTML para usarlo en los archivos `.blade.php` y de CSS para estilizar a los elementos HTML.
+También añadir que es importante tener una base sólida de PHP para hacer un uso razonado y comprensivo de Laravel, ya que cualquier framework que se utilice abstrae el lenguaje en el que está basado. Esto implica que muchas veces, la "magia" del framework sea inexplicable para algunos desarrolladores a causa de la facilidad con la que se realizan acciones como el enrutamiento o el proceso de autentificación.
+
+Es importante tener conocimientos de HTML para estructurar los archivos `.blade.php` y de CSS para estilizar los elementos HTML.
+
+**NOTA**: Los archivos presentes en la raíz de algunos directorios tienen el fin de ser reemplazados o añadidos a las rutas indicadas en las carpetas de un proyecto nuevo. Por ejemplo, si el archivo `2022_03_11_173849_add_img_path_to_productos.php` se encuentra dentro del directorio `database - migrations`, es porque si queremos hacer uso de ese archivo en un proyecto existente, tendremos que moverlo a la raíz del directorio `database/migrations`.
 
 <!-- FRAMEWORK WEB Y CREACIÓN DE PROYECTOS -->
 ### Framework web y creación de proyectos
