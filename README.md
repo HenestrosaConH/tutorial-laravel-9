@@ -47,7 +47,7 @@
 				<li><a href="#vistas-mediante-bootstrap-y-blade">Vistas mediante Bootstrap y Blade</a></li>
 				<li>
 					<a href="#bases-de-datos-y-eloquent">Bases de datos y Eloquent</a>
-					<ol start="5">
+					<ol>
 						<li><a href="#tinker">Tinker</a></li>
 					</ol>
 				</li>
