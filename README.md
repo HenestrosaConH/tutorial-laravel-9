@@ -21,7 +21,7 @@
   <h3 align="center">TutorialLaravel9</h3>
 
   <p align="center">
-    Estructura basada en el curso de pildorasinformaticas. No obstante, aquí se proveen detalles adicionales sacados de la documentación y se usa Laravel 9.
+    Estructura basada en el curso de pildorasinformaticas. No obstante, aquí se proveen detalles adicionales sacados de la documentación y se hace uso Laravel 9.
     <br />
     <a href="https://github.com/HenestrosaConH/TutorialLaravel9/issues">Reportar bug</a>
     ·
