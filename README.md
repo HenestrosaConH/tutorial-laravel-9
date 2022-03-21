@@ -41,6 +41,7 @@
     </li>
     <li>
       <a href="#contenidos">Contenidos</a>
+      <br>
       <a href="#php-artisan-cheatsheet-en-español">PHP Artisan cheatsheet en español</a>
 			<ol>
 				<li><a href="#framework-web-y-creación-de-proyectos">Framework web y creación de proyectos</a></li>
