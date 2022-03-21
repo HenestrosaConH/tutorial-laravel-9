@@ -197,9 +197,6 @@ Las contribuciones son lo que hacen a la comunidad open source un sitio increíb
 
 Si tienes alguna sugerencia que crees que puede beneficiar al proyecto, haz un *fork* y crea un *pull request*. También puedes abrir un *issue* con la etiqueta "mejora".
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
 1. Haz un *fork* del proyecto
 2. Crea tu propia rama (`git checkout -b feature/AmazingFeature`)
 3. Haz commit de tus cambios (`git commit -m 'Add some AmazingFeature'`)
